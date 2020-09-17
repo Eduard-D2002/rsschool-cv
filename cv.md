@@ -48,3 +48,10 @@ Intermediate
 **ICTA**, Computer Engineering, *2nd course*
 
 ---
+### Experience
+
+**Freelance** :  __2019-2020__
+  Some easy layout projects with responsive design, different animation and a few landing's static layouts. [Several examples...](https://www.google.com)
+
+**Epam Front-End Summer 2019 course** :  __2018-2019__
+Half completed course due abrupt relocation. Some experience with teamwork, work with limited time, responsible tasks.
