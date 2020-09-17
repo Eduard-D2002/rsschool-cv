@@ -21,3 +21,30 @@ always ready for hard work and studying, constantly
 developing and learning new technologies in IT.
 
 ---
+
+
+
+### Skills
+
+1. HTML, HTML5
+1. CSS, CSS3
+1. Javascript
+1. C++
+1. OOP
+1. Adobe Photoshop
+1. Git
+1. Responsive Design & Mobile-First Websites
+1. Attention to detail
+---
+
+### English Level
+
+Intermediate
+
+---
+### Education
+#### **Lviv Polytechnic National University**
+
+**ICTA**, Computer Engineering, *2nd course*
+
+---
